@@ -1,0 +1,11 @@
+{
+  "name": "theme-starter",
+  "private": true,
+  "dependencies": {
+    "uxuse-theme": "0.0.1"
+  },
+  "devDependencies": {
+    "nuxt": "^3.6.5",
+    "typescript": "^5.1.6"
+  }
+}
